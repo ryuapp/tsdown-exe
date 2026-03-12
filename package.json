@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "tsdown-exe",
+  "private": true,
+  "scripts": {
+    "build": "tsdown"
+  },
+  "devDependencies": {
+    "tsdown": "^0.21.2",
+    "typescript": "^5.9.3"
+  }
+}
